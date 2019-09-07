@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Both functions together allow to solve a matrix.
+## In the case the matrix has already been solved before, the second function
+## returns the solution from the cache instead of computing it again.
 
 ## makeCacheMatrix() returns a list of 4 functions :
 ## set() pushes the matrix to the cache
